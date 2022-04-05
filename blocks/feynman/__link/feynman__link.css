@@ -1,4 +1,5 @@
 .feynman__link{
+  margin: 0;
   position: absolute;
   right: 48px;
   top: 50%;
